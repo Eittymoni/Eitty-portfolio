@@ -6,6 +6,11 @@ import project2 from "../assets/project2png.png"
 import project3 from "../assets/project3.png"
 import project4 from "../assets/project4.png"
 import project5 from "../assets/project5.png"
+import project6 from "../assets/project6.png"
+import project7 from "../assets/project7.png"
+import project8 from "../assets/project8.png"
+import project9 from "../assets/project9.png"
+import project10 from "../assets/project10.png"
 
 import project_person from "../assets/project-et.png";
 
@@ -46,9 +51,39 @@ const Project = () => {
       },
       {
         img: project5,
-        name: "Vue Country",
+        name: " Country",
         github_link: "https://github.com/Eittymoni/county-flag",
         live_link: "shiny-crumble-93a889.netlify.app/",
+      },
+      {
+        img: project6,
+        name: "Coffee-shop ",
+        github_link: "https://github.com/Eittymoni/Coffee-shop.git",
+        live_link: "https://coffee-shope-by-eitty.netlify.app/",
+      },
+      {
+        img: project7,
+        name: "New-Year-Offer",
+        github_link: "https://github.com/Eittymoni/new-year-offer.git",
+        live_link: "newyearoffer-by-eitty.netlify.app/",
+      },
+      {
+        img: project8,
+        name: "Online-Flower-Shop",
+        github_link: "https://github.com/Eittymoni/online-Flower-Shop.git",
+        live_link: "online-flower-shop-by-eitty.netlify.app/",
+      },
+      {
+        img: project9,
+        name: "One-page-website",
+        github_link: "https://github.com/Eittymoni/One-page-website.git",
+        live_link: "assignment-1-by-eitty.netlify.app",
+      },
+      {
+        img: project10,
+        name: "Legal-Solution-DaisyUI",
+        github_link: " https://github.com/Eittymoni/Legal-Solution-DaisyUI.git",
+        live_link: "ligal-solution-by-eitty.netlify.app",
       },
     ];
 
